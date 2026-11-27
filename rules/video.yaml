@@ -1,0 +1,30 @@
+# 境外视频与流媒体（强制走 OVERSEA-BEST 机场池，严禁走 GCP 烧流量）
+payload:
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,yt.be
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,youtubekids.com
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,withyoutube.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN-SUFFIX,nflxso.net
+  - DOMAIN-SUFFIX,nflximg.net
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,bamgrid.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,max.com
+  - DOMAIN-SUFFIX,primevideo.com
+  - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,ttvnw.net
+  - DOMAIN-SUFFIX,vimeo.com
+  - DOMAIN-SUFFIX,dailymotion.com
+  - DOMAIN-SUFFIX,dmcdn.net
+  - DOMAIN-SUFFIX,hulu.com
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,scdn.co

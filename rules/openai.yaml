@@ -1,0 +1,16 @@
+# OpenAI / ChatGPT 全域（全设备硬锁定 GCP-OPENAI，严禁含香港节点，不退避机场）
+payload:
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,chat.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,sora.com
+  - DOMAIN-SUFFIX,chatgpt.site
+  - DOMAIN-SUFFIX,openai-corp.cloud
+  - DOMAIN-SUFFIX,openaicom.imgix.net
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openaiapi-production.azureedge.net
+  - DOMAIN-SUFFIX,openairuntime.azureedge.net
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,chatgpt
